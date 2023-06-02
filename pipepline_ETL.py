@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 server = 'sql-server-test-analitica.database.windows.net'
 database = 'consultoria'
 username = 'consultoria'
-password = 'Colombia23*'
+password = 'xxxxxxxx'
 
 ##Extracción de informacion en partes 
 #primera parte busca los archivos a cargar lotes y configura la lista al proceso
