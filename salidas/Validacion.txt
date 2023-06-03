@@ -1,0 +1,14 @@
+############################ Datos En BD ########################################
+##### Cantidad: 143 | Promedio: 56.26573426573427 | Min Precio: 0.0 | Max precio: 100.0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:144 Media:56.06 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:145 Media:55.74 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:146 Media:55.45 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:147 Media:55.7 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:148 Media:55.53 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:149 Media:55.58 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:150 Media:55.29 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:151 Media:55.5 Min Precio 0.0 max Precio 100.0 
+############################ Datos En BD ########################################
+##### Cantidad: 151 | Promedio: 55.496688741721854 | Min Precio: 0.0 | Max precio: 100.0  #####
+###################################################################################

@@ -5,6 +5,7 @@ import pymssql
 import pandas as pd
 import tkinter as tk
 import matplotlib.pyplot as plt
+import gc
 
 
 
@@ -129,26 +130,31 @@ def obtener_stadisticas(tipo):
             print("############################ Datos En BD ########################################")
             print("##### Cantidad:", count," | Promedio:",round(avg_price,2)," | Min Precio:",min_price," | Max precio:",max_price,"  #####") 
             print("###################################################################################")
-            archivo = open("salidas/",tipo,".txt", "w")
+
+            archivo = open(f"salidas/{tipo}.txt", "a")
             archivo.write("############################ Datos En BD ########################################\n")
-            archivo.write("##### Cantidad:", count," | Promedio:",round(avg_price,2)," | Min Precio:",min_price," | Max precio:",max_price,"  #####\n")
+            archivo.write(f"##### Cantidad: {count} | Promedio: {avg_price} | Min Precio: {min_price} | Max precio: {max_price}  #####\n")
             archivo.write("###################################################################################\n")
             archivo.close()
 
-            return count, avg_price, min_price, max_price
+            return count,avg_price, min_price, max_price
         else:
             #return 'NO'
             None
     except Exception as e:
         #return 'NO'    
-        print(e)
+        print("Error: ",e)
 
 #funcion que nos permite realizar calculos sin consultar la BD
 def obtener_stadisticas_poderadas(cant,media,mini,maxi,j,price,tipo):
     try:
-        print("Calculo en Memoria; Cantidad:",(j+cant),"Media:",round(((price)+(cant*media))/(j+cant),2),"Min Precio",mini,"max Precio",maxi)
-        archivo = open(tipo,".txt", "w")
-        archivo.write("Calculo en Memoria; Cantidad:",(j+cant),"Media:",round(((price)+(cant*media))/(j+cant),2),"Min Precio",mini,"max Precio",maxi)
+        p_cant=(j+cant)
+        p_media=round(((price)+(cant*media))/(j+cant),2)
+        p_min=mini
+        p_max=maxi
+        print("Calculo en Memoria; Cantidad:",p_cant,"Media:",p_media,"Min Precio",p_min,"max Precio",p_max)
+        archivo = open(f"salidas/{tipo}.txt", "a")
+        archivo.write(f"Calculo en Memoria; Cantidad:{p_cant} Media:{p_media} Min Precio {p_min} max Precio {p_max} \n")
         archivo.close()
     except Exception as e:
         #return 'NO'    
@@ -167,15 +173,16 @@ def ejecutar_pipeline(tipo):
                 df=lee_archivos_en_s3(i)    
                 #transforma la data 
                 df=transforma_df(df)
-                #Carga la data 
+                #Generamos estadisticas previas
                 cant,media,mini,maxi=obtener_stadisticas(tipo)
+                #Carga la data 
                 salida=registrar_data(df,cant,media,mini,maxi,tipo)
                 print(salida)
                 j=j+1
                  
             else :
                 print("no existe el consecutivo de carga")
-            
+        gc.collect()   
                 
     elif tipo=='Validacion':       
         archivo='aws-logs-793650758881-us-east-2/ETLPython/validation.csv'
@@ -190,6 +197,6 @@ def ejecutar_pipeline(tipo):
                  
     else:
         print(tipo,"no es del proceso ")
-    obtener_stadisticas()
+    cant,media,mini,maxi=obtener_stadisticas(tipo)
         
         

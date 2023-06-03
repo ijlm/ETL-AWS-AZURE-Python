@@ -1,0 +1,322 @@
+############################ Datos En BD ########################################
+##### Cantidad: 0 | Promedio: 0 | Min Precio: 0 | Max precio: 0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:1 Media:50.0 Min Precio 0 max Precio 50.0 
+Calculo en Memoria; Cantidad:2 Media:68.5 Min Precio 0 max Precio 87.0 
+Calculo en Memoria; Cantidad:3 Media:67.0 Min Precio 0 max Precio 64.0 
+Calculo en Memoria; Cantidad:4 Media:55.25 Min Precio 0 max Precio 20.0 
+Calculo en Memoria; Cantidad:5 Media:47.0 Min Precio 0 max Precio 14.0 
+Calculo en Memoria; Cantidad:6 Media:55.0 Min Precio 0 max Precio 95.0 
+Calculo en Memoria; Cantidad:7 Media:60.71 Min Precio 0 max Precio 95.0 
+Calculo en Memoria; Cantidad:8 Media:60.88 Min Precio 0 max Precio 62.0 
+Calculo en Memoria; Cantidad:9 Media:59.22 Min Precio 0 max Precio 46.0 
+Calculo en Memoria; Cantidad:10 Media:63.0 Min Precio 0 max Precio 97.0 
+Calculo en Memoria; Cantidad:11 Media:60.09 Min Precio 0 max Precio 31.0 
+Calculo en Memoria; Cantidad:12 Media:55.08 Min Precio 0.0 max Precio 0.0 
+Calculo en Memoria; Cantidad:13 Media:53.69 Min Precio 0 max Precio 37.0 
+Calculo en Memoria; Cantidad:14 Media:55.14 Min Precio 0 max Precio 74.0 
+Calculo en Memoria; Cantidad:15 Media:54.47 Min Precio 0 max Precio 45.0 
+Calculo en Memoria; Cantidad:16 Media:52.75 Min Precio 0 max Precio 27.0 
+Calculo en Memoria; Cantidad:17 Media:54.24 Min Precio 0 max Precio 78.0 
+Calculo en Memoria; Cantidad:18 Media:53.56 Min Precio 0 max Precio 42.0 
+Calculo en Memoria; Cantidad:19 Media:53.11 Min Precio 0 max Precio 45.0 
+Calculo en Memoria; Cantidad:20 Media:55.25 Min Precio 0 max Precio 96.0 
+Calculo en Memoria; Cantidad:21 Media:52.62 Min Precio 0.0 max Precio 0.0 
+Calculo en Memoria; Cantidad:22 Media:54.23 Min Precio 0 max Precio 88.0 
+############################ Datos En BD ########################################
+##### Cantidad: 0 | Promedio: 0 | Min Precio: 0 | Max precio: 0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:1 Media:76.0 Min Precio 0 max Precio 76 
+Calculo en Memoria; Cantidad:2 Media:71.0 Min Precio 0 max Precio 66 
+Calculo en Memoria; Cantidad:3 Media:63.0 Min Precio 0 max Precio 47 
+Calculo en Memoria; Cantidad:4 Media:72.25 Min Precio 0 max Precio 100 
+Calculo en Memoria; Cantidad:5 Media:61.6 Min Precio 0 max Precio 19 
+Calculo en Memoria; Cantidad:6 Media:61.17 Min Precio 0 max Precio 59 
+Calculo en Memoria; Cantidad:7 Media:63.43 Min Precio 0 max Precio 77 
+Calculo en Memoria; Cantidad:8 Media:68.0 Min Precio 0 max Precio 100 
+Calculo en Memoria; Cantidad:9 Media:66.56 Min Precio 0 max Precio 55 
+Calculo en Memoria; Cantidad:10 Media:61.8 Min Precio 0 max Precio 19 
+Calculo en Memoria; Cantidad:11 Media:64.82 Min Precio 0 max Precio 95 
+Calculo en Memoria; Cantidad:12 Media:65.5 Min Precio 0 max Precio 73 
+Calculo en Memoria; Cantidad:13 Media:62.92 Min Precio 0 max Precio 32 
+Calculo en Memoria; Cantidad:14 Media:65.21 Min Precio 0 max Precio 95 
+Calculo en Memoria; Cantidad:15 Media:61.67 Min Precio 0 max Precio 12 
+Calculo en Memoria; Cantidad:16 Media:60.12 Min Precio 0 max Precio 37 
+Calculo en Memoria; Cantidad:17 Media:58.24 Min Precio 0 max Precio 28 
+Calculo en Memoria; Cantidad:18 Media:55.56 Min Precio 0 max Precio 10 
+Calculo en Memoria; Cantidad:19 Media:54.05 Min Precio 0 max Precio 27 
+Calculo en Memoria; Cantidad:20 Media:52.05 Min Precio 0 max Precio 14 
+Calculo en Memoria; Cantidad:21 Media:53.71 Min Precio 0 max Precio 87 
+Calculo en Memoria; Cantidad:22 Media:54.68 Min Precio 0 max Precio 75 
+Calculo en Memoria; Cantidad:23 Media:53.87 Min Precio 0 max Precio 36 
+Calculo en Memoria; Cantidad:24 Media:55.12 Min Precio 0 max Precio 84 
+Calculo en Memoria; Cantidad:25 Media:55.4 Min Precio 0 max Precio 62 
+Calculo en Memoria; Cantidad:26 Media:55.42 Min Precio 0 max Precio 56 
+Calculo en Memoria; Cantidad:27 Media:54.0 Min Precio 0 max Precio 17 
+Calculo en Memoria; Cantidad:28 Media:54.36 Min Precio 0 max Precio 64 
+Calculo en Memoria; Cantidad:29 Media:54.83 Min Precio 0 max Precio 68 
+############################ Datos En BD ########################################
+##### Cantidad: 0 | Promedio: 0 | Min Precio: 0 | Max precio: 0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:1 Media:75.0 Min Precio 0 max Precio 75 
+Calculo en Memoria; Cantidad:2 Media:43.5 Min Precio 0 max Precio 12 
+Calculo en Memoria; Cantidad:3 Media:52.67 Min Precio 0 max Precio 71 
+Calculo en Memoria; Cantidad:4 Media:57.75 Min Precio 0 max Precio 73 
+Calculo en Memoria; Cantidad:5 Media:50.4 Min Precio 0 max Precio 21 
+Calculo en Memoria; Cantidad:6 Media:46.5 Min Precio 0 max Precio 27 
+Calculo en Memoria; Cantidad:7 Media:51.43 Min Precio 0 max Precio 81 
+Calculo en Memoria; Cantidad:8 Media:57.38 Min Precio 0 max Precio 99 
+Calculo en Memoria; Cantidad:9 Media:58.67 Min Precio 0 max Precio 69 
+Calculo en Memoria; Cantidad:10 Media:54.7 Min Precio 0 max Precio 19 
+Calculo en Memoria; Cantidad:11 Media:52.64 Min Precio 0 max Precio 32 
+Calculo en Memoria; Cantidad:12 Media:56.17 Min Precio 0 max Precio 95 
+Calculo en Memoria; Cantidad:13 Media:57.31 Min Precio 0 max Precio 71 
+Calculo en Memoria; Cantidad:14 Media:57.71 Min Precio 0 max Precio 63 
+Calculo en Memoria; Cantidad:15 Media:57.4 Min Precio 0 max Precio 53 
+Calculo en Memoria; Cantidad:16 Media:59.25 Min Precio 0 max Precio 87 
+Calculo en Memoria; Cantidad:17 Media:61.0 Min Precio 0 max Precio 89 
+Calculo en Memoria; Cantidad:18 Media:58.33 Min Precio 0 max Precio 13 
+Calculo en Memoria; Cantidad:19 Media:59.16 Min Precio 0 max Precio 74 
+Calculo en Memoria; Cantidad:20 Media:60.4 Min Precio 0 max Precio 84 
+Calculo en Memoria; Cantidad:21 Media:58.38 Min Precio 0 max Precio 18 
+Calculo en Memoria; Cantidad:22 Media:57.18 Min Precio 0 max Precio 32 
+Calculo en Memoria; Cantidad:23 Media:58.87 Min Precio 0 max Precio 96 
+Calculo en Memoria; Cantidad:24 Media:58.67 Min Precio 0 max Precio 54 
+Calculo en Memoria; Cantidad:25 Media:59.6 Min Precio 0 max Precio 82 
+Calculo en Memoria; Cantidad:26 Media:60.15 Min Precio 0 max Precio 74 
+Calculo en Memoria; Cantidad:27 Media:60.11 Min Precio 0 max Precio 59 
+Calculo en Memoria; Cantidad:28 Media:59.14 Min Precio 0 max Precio 33 
+Calculo en Memoria; Cantidad:29 Media:58.69 Min Precio 0 max Precio 46 
+Calculo en Memoria; Cantidad:30 Media:59.5 Min Precio 0 max Precio 83 
+Calculo en Memoria; Cantidad:31 Media:59.68 Min Precio 0 max Precio 65 
+############################ Datos En BD ########################################
+##### Cantidad: 0 | Promedio: 0 | Min Precio: 0 | Max precio: 0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:1 Media:87.0 Min Precio 0 max Precio 87.0 
+Calculo en Memoria; Cantidad:2 Media:65.0 Min Precio 0 max Precio 43.0 
+Calculo en Memoria; Cantidad:3 Media:51.0 Min Precio 0 max Precio 23.0 
+Calculo en Memoria; Cantidad:4 Media:61.0 Min Precio 0 max Precio 91.0 
+Calculo en Memoria; Cantidad:5 Media:65.0 Min Precio 0 max Precio 81.0 
+Calculo en Memoria; Cantidad:6 Media:65.5 Min Precio 0 max Precio 68.0 
+Calculo en Memoria; Cantidad:7 Media:64.86 Min Precio 0 max Precio 61.0 
+Calculo en Memoria; Cantidad:8 Media:58.38 Min Precio 0 max Precio 13.0 
+Calculo en Memoria; Cantidad:9 Media:53.22 Min Precio 0 max Precio 12.0 
+Calculo en Memoria; Cantidad:10 Media:54.0 Min Precio 0 max Precio 61.0 
+Calculo en Memoria; Cantidad:11 Media:54.82 Min Precio 0 max Precio 63.0 
+Calculo en Memoria; Cantidad:12 Media:57.58 Min Precio 0 max Precio 88.0 
+Calculo en Memoria; Cantidad:13 Media:58.0 Min Precio 0 max Precio 63.0 
+Calculo en Memoria; Cantidad:14 Media:57.43 Min Precio 0 max Precio 50.0 
+Calculo en Memoria; Cantidad:15 Media:60.07 Min Precio 0 max Precio 97.0 
+Calculo en Memoria; Cantidad:16 Media:61.94 Min Precio 0 max Precio 90.0 
+Calculo en Memoria; Cantidad:17 Media:58.29 Min Precio 0.0 max Precio 0.0 
+Calculo en Memoria; Cantidad:18 Media:59.44 Min Precio 0 max Precio 79.0 
+Calculo en Memoria; Cantidad:19 Media:56.84 Min Precio 0 max Precio 10.0 
+Calculo en Memoria; Cantidad:20 Media:55.05 Min Precio 0 max Precio 21.0 
+Calculo en Memoria; Cantidad:21 Media:55.67 Min Precio 0 max Precio 68.0 
+Calculo en Memoria; Cantidad:22 Media:56.64 Min Precio 0 max Precio 77.0 
+Calculo en Memoria; Cantidad:23 Media:55.0 Min Precio 0 max Precio 19.0 
+Calculo en Memoria; Cantidad:24 Media:56.12 Min Precio 0 max Precio 82.0 
+Calculo en Memoria; Cantidad:25 Media:55.6 Min Precio 0 max Precio 43.0 
+Calculo en Memoria; Cantidad:26 Media:55.58 Min Precio 0 max Precio 55.0 
+Calculo en Memoria; Cantidad:27 Media:53.52 Min Precio 0.0 max Precio 0.0 
+Calculo en Memoria; Cantidad:28 Media:53.5 Min Precio 0 max Precio 53.0 
+Calculo en Memoria; Cantidad:29 Media:52.79 Min Precio 0 max Precio 33.0 
+Calculo en Memoria; Cantidad:30 Media:53.57 Min Precio 0 max Precio 76.0 
+############################ Datos En BD ########################################
+##### Cantidad: 0 | Promedio: 0 | Min Precio: 0 | Max precio: 0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:1 Media:82.0 Min Precio 0 max Precio 82 
+Calculo en Memoria; Cantidad:2 Media:71.5 Min Precio 0 max Precio 61 
+Calculo en Memoria; Cantidad:3 Media:54.0 Min Precio 0 max Precio 19 
+Calculo en Memoria; Cantidad:4 Media:64.0 Min Precio 0 max Precio 94 
+Calculo en Memoria; Cantidad:5 Media:54.6 Min Precio 0 max Precio 17 
+Calculo en Memoria; Cantidad:6 Media:48.67 Min Precio 0 max Precio 19 
+Calculo en Memoria; Cantidad:7 Media:51.14 Min Precio 0 max Precio 66 
+Calculo en Memoria; Cantidad:8 Media:46.38 Min Precio 0 max Precio 13 
+Calculo en Memoria; Cantidad:9 Media:44.67 Min Precio 0 max Precio 31 
+Calculo en Memoria; Cantidad:10 Media:49.7 Min Precio 0 max Precio 95 
+Calculo en Memoria; Cantidad:11 Media:52.18 Min Precio 0 max Precio 77 
+Calculo en Memoria; Cantidad:12 Media:49.17 Min Precio 0 max Precio 16 
+Calculo en Memoria; Cantidad:13 Media:47.08 Min Precio 0 max Precio 22 
+Calculo en Memoria; Cantidad:14 Media:50.21 Min Precio 0 max Precio 91 
+Calculo en Memoria; Cantidad:15 Media:49.8 Min Precio 0 max Precio 44 
+Calculo en Memoria; Cantidad:16 Media:51.94 Min Precio 0 max Precio 84 
+Calculo en Memoria; Cantidad:17 Media:52.65 Min Precio 0 max Precio 64 
+Calculo en Memoria; Cantidad:18 Media:54.33 Min Precio 0 max Precio 83 
+Calculo en Memoria; Cantidad:19 Media:53.05 Min Precio 0 max Precio 30 
+Calculo en Memoria; Cantidad:20 Media:53.5 Min Precio 0 max Precio 62 
+Calculo en Memoria; Cantidad:21 Media:55.19 Min Precio 0 max Precio 89 
+Calculo en Memoria; Cantidad:22 Media:56.68 Min Precio 0 max Precio 88 
+Calculo en Memoria; Cantidad:23 Media:55.7 Min Precio 0 max Precio 34 
+Calculo en Memoria; Cantidad:24 Media:57.54 Min Precio 0 max Precio 100 
+Calculo en Memoria; Cantidad:25 Media:58.32 Min Precio 0 max Precio 77 
+Calculo en Memoria; Cantidad:26 Media:59.58 Min Precio 0 max Precio 91 
+Calculo en Memoria; Cantidad:27 Media:59.63 Min Precio 0 max Precio 61 
+Calculo en Memoria; Cantidad:28 Media:59.89 Min Precio 0 max Precio 67 
+Calculo en Memoria; Cantidad:29 Media:59.17 Min Precio 0 max Precio 39 
+Calculo en Memoria; Cantidad:30 Media:59.1 Min Precio 0 max Precio 57 
+Calculo en Memoria; Cantidad:31 Media:58.26 Min Precio 0 max Precio 33 
+############################ Datos En BD ########################################
+##### Cantidad: 0 | Promedio: 0 | Min Precio: 0 | Max precio: 0  #####
+###################################################################################
+############################ Datos En BD ########################################
+##### Cantidad: 0 | Promedio: 0 | Min Precio: 0 | Max precio: 0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:1 Media:50.0 Min Precio 0 max Precio 50.0 
+Calculo en Memoria; Cantidad:2 Media:68.5 Min Precio 0 max Precio 87.0 
+Calculo en Memoria; Cantidad:3 Media:67.0 Min Precio 0 max Precio 64.0 
+Calculo en Memoria; Cantidad:4 Media:55.25 Min Precio 0 max Precio 20.0 
+Calculo en Memoria; Cantidad:5 Media:47.0 Min Precio 0 max Precio 14.0 
+Calculo en Memoria; Cantidad:6 Media:55.0 Min Precio 0 max Precio 95.0 
+Calculo en Memoria; Cantidad:7 Media:60.71 Min Precio 0 max Precio 95.0 
+Calculo en Memoria; Cantidad:8 Media:60.88 Min Precio 0 max Precio 62.0 
+Calculo en Memoria; Cantidad:9 Media:59.22 Min Precio 0 max Precio 46.0 
+Calculo en Memoria; Cantidad:10 Media:63.0 Min Precio 0 max Precio 97.0 
+Calculo en Memoria; Cantidad:11 Media:60.09 Min Precio 0 max Precio 31.0 
+Calculo en Memoria; Cantidad:12 Media:55.08 Min Precio 0.0 max Precio 0.0 
+Calculo en Memoria; Cantidad:13 Media:53.69 Min Precio 0 max Precio 37.0 
+Calculo en Memoria; Cantidad:14 Media:55.14 Min Precio 0 max Precio 74.0 
+Calculo en Memoria; Cantidad:15 Media:54.47 Min Precio 0 max Precio 45.0 
+Calculo en Memoria; Cantidad:16 Media:52.75 Min Precio 0 max Precio 27.0 
+Calculo en Memoria; Cantidad:17 Media:54.24 Min Precio 0 max Precio 78.0 
+Calculo en Memoria; Cantidad:18 Media:53.56 Min Precio 0 max Precio 42.0 
+Calculo en Memoria; Cantidad:19 Media:53.11 Min Precio 0 max Precio 45.0 
+Calculo en Memoria; Cantidad:20 Media:55.25 Min Precio 0 max Precio 96.0 
+Calculo en Memoria; Cantidad:21 Media:52.62 Min Precio 0.0 max Precio 0.0 
+Calculo en Memoria; Cantidad:22 Media:54.23 Min Precio 0 max Precio 88.0 
+############################ Datos En BD ########################################
+##### Cantidad: 22 | Promedio: 54.22727272727273 | Min Precio: 0.0 | Max precio: 97.0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:23 Media:55.17 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:24 Media:55.62 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:25 Media:55.28 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:26 Media:57.0 Min Precio 0.0 max Precio 100 
+Calculo en Memoria; Cantidad:27 Media:55.59 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:28 Media:55.71 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:29 Media:56.45 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:30 Media:57.9 Min Precio 0.0 max Precio 100 
+Calculo en Memoria; Cantidad:31 Media:57.81 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:32 Media:56.59 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:33 Media:57.76 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:34 Media:58.21 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:35 Media:57.46 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:36 Media:58.5 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:37 Media:57.24 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:38 Media:56.71 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:39 Media:55.97 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:40 Media:54.83 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:41 Media:54.15 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:42 Media:53.19 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:43 Media:53.98 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:44 Media:54.45 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:45 Media:54.04 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:46 Media:54.7 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:47 Media:54.85 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:48 Media:54.88 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:49 Media:54.1 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:50 Media:54.3 Min Precio 0.0 max Precio 97.0 
+Calculo en Memoria; Cantidad:51 Media:54.57 Min Precio 0.0 max Precio 97.0 
+############################ Datos En BD ########################################
+##### Cantidad: 51 | Promedio: 54.568627450980394 | Min Precio: 0.0 | Max precio: 100.0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:52 Media:54.96 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:53 Media:54.15 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:54 Media:54.46 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:55 Media:54.8 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:56 Media:54.2 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:57 Media:53.72 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:58 Media:54.19 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:59 Media:54.95 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:60 Media:55.18 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:61 Media:54.59 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:62 Media:54.23 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:63 Media:54.87 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:64 Media:55.12 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:65 Media:55.25 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:66 Media:55.21 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:67 Media:55.69 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:68 Media:56.18 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:69 Media:55.55 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:70 Media:55.81 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:71 Media:56.21 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:72 Media:55.68 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:73 Media:55.36 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:74 Media:55.91 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:75 Media:55.88 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:76 Media:56.22 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:77 Media:56.45 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:78 Media:56.49 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:79 Media:56.19 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:80 Media:56.06 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:81 Media:56.4 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:82 Media:56.5 Min Precio 0.0 max Precio 100.0 
+############################ Datos En BD ########################################
+##### Cantidad: 82 | Promedio: 56.5 | Min Precio: 0.0 | Max precio: 100.0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:83 Media:56.87 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:84 Media:56.7 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:85 Media:56.31 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:86 Media:56.71 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:87 Media:56.99 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:88 Media:57.11 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:89 Media:57.16 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:90 Media:56.67 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:91 Media:56.18 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:92 Media:56.23 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:93 Media:56.3 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:94 Media:56.64 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:95 Media:56.71 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:96 Media:56.64 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:97 Media:57.05 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:98 Media:57.39 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:99 Media:56.81 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:100 Media:57.03 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:101 Media:56.56 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:102 Media:56.22 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:103 Media:56.33 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:104 Media:56.53 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:105 Media:56.17 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:106 Media:56.42 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:107 Media:56.29 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:108 Media:56.28 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:109 Media:55.76 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:110 Media:55.74 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:111 Media:55.53 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:112 Media:55.71 Min Precio 0.0 max Precio 100.0 
+############################ Datos En BD ########################################
+##### Cantidad: 112 | Promedio: 55.714285714285715 | Min Precio: 0.0 | Max precio: 100.0  #####
+###################################################################################
+Calculo en Memoria; Cantidad:113 Media:55.95 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:114 Media:55.99 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:115 Media:55.67 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:116 Media:56.0 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:117 Media:55.67 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:118 Media:55.36 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:119 Media:55.45 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:120 Media:55.09 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:121 Media:54.89 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:122 Media:55.22 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:123 Media:55.4 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:124 Media:55.08 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:125 Media:54.82 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:126 Media:55.1 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:127 Media:55.02 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:128 Media:55.24 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:129 Media:55.31 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:130 Media:55.52 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:131 Media:55.33 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:132 Media:55.38 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:133 Media:55.63 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:134 Media:55.87 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:135 Media:55.71 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:136 Media:56.04 Min Precio 0.0 max Precio 100 
+Calculo en Memoria; Cantidad:137 Media:56.19 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:138 Media:56.44 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:139 Media:56.47 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:140 Media:56.55 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:141 Media:56.43 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:142 Media:56.43 Min Precio 0.0 max Precio 100.0 
+Calculo en Memoria; Cantidad:143 Media:56.27 Min Precio 0.0 max Precio 100.0 
+############################ Datos En BD ########################################
+##### Cantidad: 143 | Promedio: 56.26573426573427 | Min Precio: 0.0 | Max precio: 100.0  #####
+###################################################################################
