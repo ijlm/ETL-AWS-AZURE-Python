@@ -11,9 +11,9 @@ import gc
 
 ##Configruación conexion Sql Server Azure
 server = 'sql-server-test-analitica.database.windows.net'
-database = 'consultoria'
-username = 'consultoria'
-password = 'Colombia23*'
+database = 'Name_DB'
+username = 'User_DB'
+password = 'xxxxxxx*'
 
 ##Extracción de informacion en partes 
 #primera parte busca los archivos a cargar lotes y configura la lista al proceso
